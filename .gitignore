@@ -32,6 +32,10 @@
 *.out
 *.app
 
+# My LIST
+*.pdb
+build.bat
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
